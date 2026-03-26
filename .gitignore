@@ -112,3 +112,8 @@ mjkey.txt
 .idea
 
 .pytest_cache/
+
+# Extra
+outputs
+testing
+datasets
